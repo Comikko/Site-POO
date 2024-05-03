@@ -1,2 +1,15 @@
 # Site-POO
-![RP1DQy9048Rl-ol652HBuqNm8Y4O2g6bK4HYxwCxbeNTJPb9g2B-TpSHKW-Pop3lyp9V6scHsyuxfMQ6JZOGr7Xmb0Rqb84XEMeuEXI1NW4KI7enWJo7jCxWfQhA61gAOkomPUkHBvzqISyQydaN3B6Bf3ZdSmhctrarJFOdZ4w3pAD9FJRPjzPPmPOwbWoIvpBHS5KGu_LvfZLw3HzV](https://github.com/Comikko/Site-POO/assets/157125103/39da5663-729e-48d3-b38f-8f650333e28b)
+Le site a été changé en POO.
+
+**Voici les 5 diagrammes demandé :**
+
+![RP1DQy9048Rl-ol652HBuqNm8Y4O2g6bK4HYxwCxbeNTJPb9g2B-TpSHKW-Pop3lyp9V6scHsyuxfMQ6JZOGr7Xmb0Rqb84XEMeuEXI1NW4KI7enWJo7jCxWfQhA61gAOkomPUkHBvzqISyQydaN3B6Bf3ZdSmhctrarJFOdZ4w3pAD9FJRPjzPPmPOwbWoIvpBHS5KGu_LvfZLw3HzV-2](https://github.com/Comikko/Site-POO/assets/157125103/c4b9e4a5-ffdc-40a8-8ac2-71db1441f3c4)
+
+![RPBTJiCm38NlynIz14rz1JHKQM8It0ps025rIqHc3zkPD13lJlgJighDNSwnuyzsjgAMDPw2CIvOaQ8YLAOGW8iVKwHJVbYi0npWAuBetRtvpQ6FJZtXKsylebil2Zo4fAGRxvbQZsl6yLnRXJMd2YIhHdgBeaxEXFP2DOICLB-dfX2SZhaR7kcE0forq57T2YreTzrZGvArs1DcEQjk](https://github.com/Comikko/Site-POO/assets/157125103/ae704c8b-2dbe-417d-9fcf-0f5d4f358b0e)
+
+
+![VP8nRiCm34LtdOBmdWjqA19awDGfo044YN69o990KKDGz40zHoyMsIvg2RRhnORvFlL8-vX4i-J1AUNm9Y01cFeF0KkCHYXubUxaesOzGDJchdkyoCCXZ6NjUuTAQIE1uPgGVnzFTY2lr1y2tHkciHbO11EyeCyTV2eeLqveT2h8cN--aI5xA4Pa77QW4nX6BNYQtxI1zs3fHkj8ZdOl](https://github.com/Comikko/Site-POO/assets/157125103/22a3aa9d-6742-4807-aba0-eed78a6dd1ce)
+
+![XL91RiCW4Bpx5Njq5Fa37AgqQG-zHOto00Ah20dZ1DQ9egX_Bs2CYHsfFk6PPNPds8qZRgblTLK9pPs3WqCBZmhyru2I39IXzDTxol0M6JYoofmIVFRNRfsLCnXRhlGC4nOveNmd1j8VIBKOcJMSaBvblPhQHUYGEWQY45g3AxZvMBxssYavgUpIWAzKCZTtiL3v2dvUIGp4azt5vUre](https://github.com/Comikko/Site-POO/assets/157125103/acfc05a2-9a74-4770-bf35-84da6482c228)
+
+![ZP312W8X48RlFiNSOr_0qq8lqALpI0ubw1ZEB1BHk-TkhfMma2VznldcPqOMasGANYaaSNA78sE2Xu9oTk2i1aTINsG2Qc19ZYuLOJ3ET-ncc7DCjk5danyYouQyr7rlFqUIqjdHgIGyhSqVzpw6KAuR-ZzKDNs9-6rVzZ4Cx-WQOYPkR1sf8ISdo6hvz5Eu6bPgHBBpZby0](https://github.com/Comikko/Site-POO/assets/157125103/66c00a67-ff91-4218-b82d-49deeed5043f)
